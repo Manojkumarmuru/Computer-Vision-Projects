@@ -16,3 +16,5 @@
 
 # Output
 `finely_segmented_foreground.jpg`
+`probability_map.jpg`
+![finely_segmented_foreground](finely_segmented_foreground.jpg)
