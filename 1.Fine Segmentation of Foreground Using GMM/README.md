@@ -9,5 +9,6 @@
 # Output
 `finely_segmented_foreground.jpg`
 
-
-
+# Roughly segmnented image using GMM
+`roughly_segmented_foreground.jpg`
+![roughly_segmented_foreground.jpg](roughly_segmented_foreground.jpg)
