@@ -5,7 +5,7 @@
 `sample.jpg`
 ![Raw Image](resized_raw_img.jpg)
 
-# Roughly segmnented image using GMM
+# Roughly segmented image using GMM
 `roughly_segmented_foreground.jpg`
 ![roughly_segmented_foreground](roughly_segmented_foreground.jpg)
 
