@@ -6,3 +6,5 @@
 
 # Output
 `finely_segmented_foreground.jpg`
+
+![Screenshot](resized_raw_img.jpg)
